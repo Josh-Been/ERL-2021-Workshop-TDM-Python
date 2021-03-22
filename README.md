@@ -1,7 +1,7 @@
 # ERL-2021-Workshop-TDM-Python
 Materials to accompany the ER&amp;L 2021 workshop 'Learn to Text Data Mine Using Jupyter Notebooks on Google Colab'
 
-![Workshop Image](https://www.electroniclibrarian.org/wp-content/uploads/2021/01/Jupyter.png)
+<img src="https://www.electroniclibrarian.org/wp-content/uploads/2021/01/Jupyter.png" width=300>
 
 March 29 – April 8, 2021
 
