@@ -12,8 +12,6 @@ This asynchronous and self-paced workshop is organized into 4 sections and 7 vid
 ### Video 1 (14:23)
  - Covered: Contains an initial slideshow introducing text data mining and then a hands-on walkthrough of an existing Jupyter Notebook to analyze interview transcripts
  - Resources Used/Mentioned:
-    - [Python.org](https://www.python.org)
-    - [Anaconda Python Distribution](https://www.anaconda.com/products/individual)
     - [BUTANE (Baylor University Transcript Aalysis and Exploration Tool)](https://colab.research.google.com/drive/1zC7Kb6MaR3o2up-GdlNuNChj2e-jp3VR?usp=sharing)
  - Practice Files:
     - [3 Transcripts](https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Practice%20Content/transcripts.zip)
@@ -26,6 +24,9 @@ This asynchronous and self-paced workshop is organized into 4 sections and 7 vid
 ### Video 2 (10:46)
  - Covered: We will explore the Colab environment and the classic ‘Hello, World’ script.
  - Resources Used/Mentioned:
+    - [Python.org](https://www.python.org)
+    - [Anaconda Python Distribution](https://www.anaconda.com/products/individual)
+    - [Google Colab](https://colab.research.google.com/)
  - Video (authentication required)
     - ER&L-hosted
     - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+2.mp4/1_a1a249lc)
@@ -33,15 +34,21 @@ This asynchronous and self-paced workshop is organized into 4 sections and 7 vid
 **Section 3: Introduction to Python**
 
 ### Video 3 (25:42)
- - Covered: 
+ - Covered: Introduction to the following 7 Python Commands: Print, Variable Types, Operators, Input, Indentation Syntax, If Conditions, Reading Text Files.
  - Resources Used/Mentioned:
+    - [W3Schools: Python File Open](https://www.w3schools.com/python/python_file_open.asp)
+ - Practice Files:
+    - [3 Documents](https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Practice%20Content/documents.zip)
  - Video (authentication required)
     - ER&L-hosted
     - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+3.mp4/1_k1dco46f)
 
 ### Video 4 (21:16)
- - Covered: 
+ - Covered: Introduction to the following 4 Python Commands: Loops, Lists, Concatenations, Functions
  - Resources Used/Mentioned:
+    - [Colab Jupyter Notebook: Document Size (Number of Lines) Guesser](https://colab.research.google.com/drive/1qHCNytNeWDQ5v2uN77vovLwGb3Dk34er?usp=sharing)
+ - Practice Files:
+    - [3 Documents](https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Practice%20Content/documents.zip)
  - Video (authentication required)
     - ER&L-hosted
     - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+4.mp4/1_vm2mjsad)
@@ -51,6 +58,16 @@ This asynchronous and self-paced workshop is organized into 4 sections and 7 vid
 ### Video 5 (24:53)
  - Covered: We will explore and implement simple libraries that provide text data mining utilities.
  - Resources Used/Mentioned:
+    - [Python.org](https://www.python.org)
+    - [Anaconda Python Distribution](https://www.anaconda.com/products/individual)
+    - [GitHub: VADER Sentiment Analysis](https://github.com/cjhutto/vaderSentiment)
+    - [Textract - textract 1.6.1 documentation](https://textract.readthedocs.io/en/stable/)
+    - [Dariah Topics](https://pypi.org/project/dariah/)
+    - [Pytesseract](https://pypi.org/project/pytesseract/)
+    - [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
+ - Practice Files:
+    - [3 Documents](https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Practice%20Content/documents.zip)
+    - [2 Chapters](https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Practice%20Content/chapters.zip)
  - Video (authentication required)
     - ER&L-hosted
     - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+5.mp4/1_0myj075s)
