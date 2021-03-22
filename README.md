@@ -3,7 +3,7 @@ Materials to accompany the ER&amp;L 2021 workshop 'Learn to Text Data Mine Using
 
 [https://www.electroniclibrarian.org/learn-to-text-data-mine-with-jupyter-notebooks-on-google-colab/](https://www.electroniclibrarian.org/learn-to-text-data-mine-with-jupyter-notebooks-on-google-colab/)
 
-## Introduction to Text Data Mining
+**Section 1: Introduction to Text Data Mining**
 
 ### Video 1 (14:23)
  - Covered: Contains an initial slideshow introducing text data mining and then a hands-on walkthrough of an existing Jupyter Notebook to analyze interview transcripts
@@ -17,7 +17,7 @@ Materials to accompany the ER&amp;L 2021 workshop 'Learn to Text Data Mine Using
     - ER&L-hosted
     - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+1.mp4/1_pgweyren)
 
-## Hands-On Introduction to Jupyter Notebooks on Google Colab
+**Section 2: Hands-On Introduction to Jupyter Notebooks on Google Colab**
 
 ### Video 2 (10:46)
  - Covered: We will explore the Colab environment and the classic ‘Hello, World’ script.
@@ -26,7 +26,7 @@ Materials to accompany the ER&amp;L 2021 workshop 'Learn to Text Data Mine Using
     - ER&L-hosted
     - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+2.mp4/1_a1a249lc)
 
-## Introduction to Python
+**Section 3: Introduction to Python**
 
 ### Video 3 (25:42)
  - Covered: 
@@ -42,7 +42,7 @@ Materials to accompany the ER&amp;L 2021 workshop 'Learn to Text Data Mine Using
     - ER&L-hosted
     - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+4.mp4/1_vm2mjsad)
 
-## Text Data Mining Using Python
+**Section 4: Text Data Mining Using Python**
 
 ### Video 5 (24:53)
  - Covered: We will explore and implement simple libraries that provide text data mining utilities.
@@ -58,7 +58,7 @@ Materials to accompany the ER&amp;L 2021 workshop 'Learn to Text Data Mine Using
     - ER&L-hosted
     - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+6.mp4/1_lsh4lbyk)
 
-## Summing Up
+**Section 5: Summing Up**
 
 ### Video 7 (2:35)
  - Covered: 
