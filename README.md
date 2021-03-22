@@ -1,9 +1,12 @@
 # ERL-2021-Workshop-TDM-Python
 Materials to accompany the ER&amp;L 2021 workshop 'Learn to Text Data Mine Using Jupyter Notebooks on Google Colab'
 
+https://www.electroniclibrarian.org/learn-to-text-data-mine-with-jupyter-notebooks-on-google-colab/
+
 ### Video 1 (14:23)
- - Covered: 
+ - Covered: Contains an initial slideshow introducing text data mining and then a hands-on walkthrough of an existing Jupyter Notebook to analyze interview transcripts
  - Resources Used/Mentioned:
+    - [BUTANE (Baylor University Transcript Aalysis and Exploration Tool)](https://colab.research.google.com/drive/1zC7Kb6MaR3o2up-GdlNuNChj2e-jp3VR?usp=sharing)
  - Video (authentication required)
     - ER&L-hosted
     - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+1.mp4/1_pgweyren)
