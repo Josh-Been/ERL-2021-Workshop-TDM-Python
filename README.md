@@ -5,7 +5,16 @@ March 29 – April 8, 2021
 
 [https://www.electroniclibrarian.org/learn-to-text-data-mine-with-jupyter-notebooks-on-google-colab/](https://www.electroniclibrarian.org/learn-to-text-data-mine-with-jupyter-notebooks-on-google-colab/)
 
-This asynchronous and self-paced workshop is organized into 4 sections and 7 videos. Use this site for links to all resources referenced in each section and video.
+### About
+
+This asynchronous and self-paced workshop is organized into 4 sections and 7 videos. Use this site for links to all resources referenced in each section and video. In the first section, we will briefly introduce a workflow template for text data mining. In the second section, we will introduce Google Colab, Jupyter Notebooks, and write our Hello, World script. In the third section, we will learn the fundamentals of Python scripting. This will encompass two videos. In the fourth section, we will begin to leverage what we learned to focus on libraries that provide text data mining utilities. This section also contains two videos. The final video is a quick summation, mapping what we learned back to the text data mining workflow introduced in the first video.
+
+There is approximately 2 hours of video content. These videos walk you through examples. You can watch and pause the video to follow along. This will provide the deepest learning and will take the most time. Alternatively, you can watch the videos while taking notes and practice later. There are absolutely no rules.
+
+### Office Hours for this Workshop (via Zoom):
+ - Monday, March 29 @ 1:00pm - 1:30pm Central (Roadmapping/ Kick off session)
+ - Thursday, April 1 @ 1:00pm - 2:00pm Central
+ - Thursday, April 8 @ 1:00pm - 2:00pm Central 
 
 **Section 1: Introduction to Text Data Mining**
 
