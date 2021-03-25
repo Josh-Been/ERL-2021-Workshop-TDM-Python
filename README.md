@@ -76,6 +76,7 @@ There is approximately 2 hours of video content. These videos walk you through e
     - [Dariah Topics](https://pypi.org/project/dariah/)
     - [Pytesseract](https://pypi.org/project/pytesseract/)
     - [pandas - Python Data Analysis Library](https://pandas.pydata.org/)
+    - [Colab Jupyter Notebook: File Explorer](https://colab.research.google.com/drive/1me8xekW1kBRkx1cKx2vdE_EBftNh8bLJ?usp=sharing)
  - Practice Files:
     - [3 Documents](https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Practice%20Content/documents.zip)
     - [2 Chapters](https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Practice%20Content/chapters.zip)
@@ -95,6 +96,9 @@ There is approximately 2 hours of video content. These videos walk you through e
 ### Video 7 (2:35)
  - Covered: 
  - Resources Used/Mentioned:
+    - [spaCy](https://spacy.io/)
+    - [MatPlotLib](https://matplotlib.org/)
+    - 
  - Video (authentication required)
     - ER&L-hosted
     - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+7.mp4/1_uydse04t)
