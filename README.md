@@ -87,6 +87,12 @@ There is approximately 2 hours of video content. These videos walk you through e
 ### Video 6 (23:17)
  - Covered: We will structure text content into a dataframe containing columns for each term, parts of speech, lemmas, named entities, and a stop word indicator.
  - Resources Used/Mentioned:
+    - [spaCy](https://spacy.io/)
+    - [MatPlotLib](https://matplotlib.org/)
+    - [Squarify](https://github.com/laserson/squarify)
+    - [WordCloud for Python](https://amueller.github.io/word_cloud/)
+ - Practice Files:
+    - [2019 Donald Trump State of the Union Address](https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Practice%20Content/trump2019sotu.txt)
  - Video (authentication required)
     - ER&L-hosted
     - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+6.mp4/1_lsh4lbyk)
@@ -96,9 +102,6 @@ There is approximately 2 hours of video content. These videos walk you through e
 ### Video 7 (2:35)
  - Covered: 
  - Resources Used/Mentioned:
-    - [spaCy](https://spacy.io/)
-    - [MatPlotLib](https://matplotlib.org/)
-    - 
  - Video (authentication required)
     - ER&L-hosted
     - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+7.mp4/1_uydse04t)
