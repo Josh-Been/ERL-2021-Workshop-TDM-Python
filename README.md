@@ -13,6 +13,12 @@ This asynchronous and self-paced workshop is organized into 4 sections and 7 vid
 
 There is approximately 2 hours of video content. These videos walk you through examples. You can watch and pause the video to follow along. This will provide the deepest learning and will take the most time. Alternatively, you can watch the videos while taking notes and practice later. There are absolutely no rules.
 
+### Text Data Mining: Workflow and Topics Covered
+
+<center><a href="https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Images/tdm-workflow.png" target="_new"><img src="https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Images/tdm-workflow.png" width=300></a><br>TDM Flexible Workflow</center>
+<br><br>
+<center><a href="https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Images/tdm-covered.png" target="_new"><img src="https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Images/tdm-covered.png" width=300></a><br>This Workshop Covers the Following per Step</center>
+
 ### Office Hours for this Workshop (via Zoom):
  - Monday, March 29 @ 1:00pm - 1:30pm Central (Roadmapping/ Kick off session)
  - Thursday, April 1 @ 1:00pm - 2:00pm Central
