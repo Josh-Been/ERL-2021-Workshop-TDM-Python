@@ -15,7 +15,7 @@ There is approximately 2 hours of video content. These videos walk you through e
 
 ### Text Data Mining: Workflow and Topics Covered
 
-<center><a href="https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Images/tdm-workflow.png" target="_new"><img src="https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Images/tdm-workflow.png" width=300></a><br>TDM Flexible Workflow</center>
+<center><a href="https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Images/tdm-workflow.png" target="_new"><img src="https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Images/tdm-workflow.png" width=300></a><br>TDM Flexible Workflow Introduced in Video #1</center>
 <br><br>
 <center><a href="https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Images/tdm-covered.png" target="_new"><img src="https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Images/tdm-covered.png" width=300></a><br>This Workshop Covers the Following per Step</center><br><br>
 
