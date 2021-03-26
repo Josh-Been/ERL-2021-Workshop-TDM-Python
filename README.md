@@ -17,7 +17,7 @@ There is approximately 2 hours of video content. These videos walk you through e
 
 <center><a href="https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Images/tdm-workflow.png" target="_new"><img src="https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Images/tdm-workflow.png" width=300></a><br>TDM Flexible Workflow Introduced in Video #1</center>
 <br><br>
-<center><a href="https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Images/tdm-covered.png" target="_new"><img src="https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Images/tdm-covered.png" width=300></a><br>This Workshop Covers the Following per Step</center><br><br>
+<center><a href="https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Images/tdm-covered.png" target="_new"><img src="https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Images/tdm-covered.png" width=300></a><br>TDM Flexible Workflow Introduced in Video #1 Workshop Introduces the Following Techniques Mapped to Workflow</center><br><br>
 
 ### Office Hours for this Workshop (via Zoom):
  - Monday, March 29 @ 1:00pm - 1:30pm Central (Roadmapping/ Kick off session)
