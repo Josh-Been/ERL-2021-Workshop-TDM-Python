@@ -94,6 +94,5 @@ There is approximately 2 hours of video content. These videos walk you through e
 **Section 5: Summing Up**
 
 ### Video 7 (2:35)
- - Covered: 
- - Resources Used/Mentioned:
+ - Covered: Sum up the workshop, mapping what we learned to the TDM workflow.
  - [Video (password protected)](https://baylor0-my.sharepoint.com/:v:/g/personal/joshua_been_baylor_edu/ERpw0UWu1LBKid0hGYsDYNwB2ilrQPIlfdBOypqH3bQ1vQ?e=ZAbBfe)
