@@ -32,9 +32,7 @@ There is approximately 2 hours of video content. These videos walk you through e
     - [BUTANE (Baylor University Transcript Aalysis and Exploration Tool)](https://colab.research.google.com/drive/1zC7Kb6MaR3o2up-GdlNuNChj2e-jp3VR?usp=sharing)
  - Practice Files:
     - [3 Transcripts](https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Practice%20Content/transcripts.zip)
- - Video (authentication required)
-    - ER&L-hosted
-    - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+1.mp4/1_pgweyren)
+ - [Video (password protected)](https://baylor0-my.sharepoint.com/:v:/g/personal/joshua_been_baylor_edu/EbOpyZWju8lPhgFv1Gz70nABfuNKOCHYU4hFFgqZhxR_CA?e=unOYXc)
 
 **Section 2: Hands-On Introduction to Jupyter Notebooks on Google Colab**
 
@@ -44,9 +42,7 @@ There is approximately 2 hours of video content. These videos walk you through e
     - [Python.org](https://www.python.org)
     - [Anaconda Python Distribution](https://www.anaconda.com/products/individual)
     - [Google Colab](https://colab.research.google.com/)
- - Video (authentication required)
-    - ER&L-hosted
-    - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+2.mp4/1_a1a249lc)
+ - [Video (password protected)](https://baylor0-my.sharepoint.com/:v:/g/personal/joshua_been_baylor_edu/EVPKloNgJmFInmBrYCmHi4oBzjLVdQRn4iP0ez2AQzNguA?e=fs3Vf3)
 
 **Section 3: Introduction to Python**
 
@@ -56,9 +52,7 @@ There is approximately 2 hours of video content. These videos walk you through e
     - [W3Schools: Python File Open](https://www.w3schools.com/python/python_file_open.asp)
  - Practice Files:
     - [3 Documents](https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Practice%20Content/documents.zip)
- - Video (authentication required)
-    - ER&L-hosted
-    - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+3.mp4/1_k1dco46f)
+ - [Video (password protected)](https://baylor0-my.sharepoint.com/:v:/g/personal/joshua_been_baylor_edu/EZOFVNPEmrJPo-desXIEQLABdUru9fsYsQ4axXvXk9iH3Q?e=c7jArt)
 
 ### Video 4 (21:16)
  - Covered: Introduction to the following 4 Python Commands: Loops, Lists, Concatenations, Functions
@@ -66,9 +60,7 @@ There is approximately 2 hours of video content. These videos walk you through e
     - [Colab Jupyter Notebook: Document Size (Number of Lines) Guesser](https://colab.research.google.com/drive/1qHCNytNeWDQ5v2uN77vovLwGb3Dk34er?usp=sharing)
  - Practice Files:
     - [3 Documents](https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Practice%20Content/documents.zip)
- - Video (authentication required)
-    - ER&L-hosted
-    - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+4.mp4/1_vm2mjsad)
+ - [Video (password protected)](https://baylor0-my.sharepoint.com/:v:/g/personal/joshua_been_baylor_edu/EZbyr2uvlqVPlDChUF5YxdcBAAnCr9C90TZl2cEu2v3cQw?e=dhPp8y)
 
 **Section 4: Text Data Mining Using Python**
 
@@ -86,9 +78,7 @@ There is approximately 2 hours of video content. These videos walk you through e
  - Practice Files:
     - [3 Documents](https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Practice%20Content/documents.zip)
     - [2 Chapters](https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Practice%20Content/chapters.zip)
- - Video (authentication required)
-    - ER&L-hosted
-    - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+5.mp4/1_0myj075s)
+ - [Video (password protected)](https://baylor0-my.sharepoint.com/:v:/g/personal/joshua_been_baylor_edu/EQuk0tG5mvxMgwgHu39GTKkBoeGizGJKjWE2STNFeLJZuQ?e=aYrazI)
 
 ### Video 6 (23:17)
  - Covered: We will structure text content into a dataframe containing columns for each term, parts of speech, lemmas, named entities, and a stop word indicator.
@@ -99,15 +89,11 @@ There is approximately 2 hours of video content. These videos walk you through e
     - [WordCloud for Python](https://amueller.github.io/word_cloud/)
  - Practice Files:
     - [2019 Donald Trump State of the Union Address](https://josh-been.github.io/ERL-2021-Workshop-TDM-Python/Practice%20Content/trump2019sotu.txt)
- - Video (authentication required)
-    - ER&L-hosted
-    - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+6.mp4/1_lsh4lbyk)
+ - [Video (password protected)](https://baylor0-my.sharepoint.com/:v:/g/personal/joshua_been_baylor_edu/EZ4scS32lltHpKBWEDCBJYoBo7n20s_Tge5sOazxqMUmLQ?e=FT4itT)
 
 **Section 5: Summing Up**
 
 ### Video 7 (2:35)
  - Covered: 
  - Resources Used/Mentioned:
- - Video (authentication required)
-    - ER&L-hosted
-    - [Baylor-hosted](https://mediaspace.baylor.edu/media/ER%26ampBL+TDM+Video+7.mp4/1_uydse04t)
+ - [Video (password protected)](https://baylor0-my.sharepoint.com/:v:/g/personal/joshua_been_baylor_edu/ERpw0UWu1LBKid0hGYsDYNwB2ilrQPIlfdBOypqH3bQ1vQ?e=ZAbBfe)
